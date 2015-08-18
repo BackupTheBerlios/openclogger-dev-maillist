@@ -1,0 +1,11 @@
+From nkilzer at users.berlios.de  Mon Nov 13 16:03:27 2006
+From: nkilzer at users.berlios.de (Nate Kilzer)
+Date: Mon, 13 Nov 2006 08:03:27 -0700
+Subject: [Openclogger-dev] Developer mailing list test message.
+Message-ID: <d01a64380611130703r72017620jfda222fb4323661e@mail.gmail.com>
+
+This message is being used to test the mailing list. I have switched
+to a new email program, and also am using this to check that the
+filters are correctly set up for the mailing list.
+
+
